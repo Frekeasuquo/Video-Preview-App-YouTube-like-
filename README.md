@@ -15,7 +15,7 @@ A responsive React + Laravel project that mimics YouTube-style video previews wi
 - Backend filters and returns video JSON
 
 ## Clone the repo
-git clone https://github.com/Frekeasuquo/Video-Preview-App-YouTube-like
+git clone https://github.com/Frekeasuquo/Video-Preview-App-YouTube-like-.git
 
 ## 🖥️ Frontend Setup (React)
 cd frontend  
