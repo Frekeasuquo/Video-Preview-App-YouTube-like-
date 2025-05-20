@@ -24,7 +24,7 @@ npm start # or npm run dev
 
 ## 🔧 Backend Setup (Laravel)
 cd backend  
-Add your db.json in: storage/app/db.json
+Add your db.json in storage/app/db.json  
 composer install  
 cp .env.example .env  
 php artisan key:generate
