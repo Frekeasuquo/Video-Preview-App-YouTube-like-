@@ -23,14 +23,14 @@ npm install
 npm start # or npm run dev
 
 ## 🔧 Backend Setup (Laravel)
-cd backend  
-Add your db.json in storage/app/db.json  
-composer install  
-cp .env.example .env  
-php artisan key:generate
-configure your database
-php artisan migrate --seed
-php artisan serve
+cd backend    
+Add your db.json in storage/app/db.json    
+composer install    
+cp .env.example .env    
+php artisan key:generate  
+configure your database  
+php artisan migrate --seed  
+php artisan serve  
 
 ## 🔗 API Endpoints
 | Method | Endpoint           | Description                            |
